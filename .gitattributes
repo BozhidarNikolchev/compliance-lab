@@ -1,0 +1,29 @@
+# Treat binaries explicitly (no line-ending normalization)
+*.pdf binary
+*.docx binary
+*.xlsx binary
+*.pptx binary
+*.zip binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+
+# Text files: normalize to LF in repo; Git will convert to CRLF on checkout if configured
+*.md text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.xml text eol=lf
+*.sh text eol=lf
+*.py text eol=lf
+*.js text eol=lf
+*.ts text eol=lf
+*.css text eol=lf
+*.html text eol=lf
+
+# Ensure GitHub renders linguist for docs correctly
+README.md linguist-documentation
+**/README.md linguist-documentation
