@@ -1,7 +1,7 @@
 # GDPR Compliance Lifecycle & Essentials Pack
 **Author:** Bozhidar Nikolchev  
 **Program:** 30‑Day Compliance & Security Governance Program – Week 1 Project  
-**Last Updated:** 2026‑02‑20
+**Last Updated:** 2026‑02‑20  
 **Version:** 1.0  
 
 ---
