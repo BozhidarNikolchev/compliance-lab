@@ -1,5 +1,5 @@
 # GDPR Data Mapping Sheet — Inventory & Flow Mapping
-**Author:** Bozhidar Nikolchev
+**Author:** Bozhidar Nikolchev  
 **Version:** 1.0  
 **Last Updated:** 2026‑02‑20  
 

@@ -1,6 +1,6 @@
 # Record of Processing Activities (RoPA) — Template
 **Author:** Bozhidar Nikolchev
-**Related Regulation:** GDPR Article 30  
+**Related Regulation:** GDPR Article 30    
 **Version:** 1.0  
 **Last Updated:** 2026‑02‑20
 
