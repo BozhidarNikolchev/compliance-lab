@@ -13,7 +13,7 @@ Together, these components ensure that the organization effectively protects its
 
          ┌────────────────────────────────┐
          │        ISO/IEC 27001           │
-         │  Information Security Standard  │
+         │  Information Security Standard │
          └────────────────────────────────┘
                        │
                        ▼
@@ -21,34 +21,34 @@ Together, these components ensure that the organization effectively protects its
     │        Clauses 4–10 (Mandatory ISMS)       │
     │────────────────────────────────────────────│
     │ 4. Context of the Organization             │
-    │ 5. Leadership                               │
-    │ 6. Planning                                 │
-    │ 7. Support                                  │
-    │ 8. Operation                                │
-    │ 9. Performance Evaluation                   │
-    │ 10. Improvement                             │
+    │ 5. Leadership                              │
+    │ 6. Planning                                │
+    │ 7. Support                                 │
+    │ 8. Operation                               │
+    │ 9. Performance Evaluation                  │
+    │ 10. Improvement                            │
     └────────────────────────────────────────────┘
                        │
                        ▼
     ┌────────────────────────────────────────────┐
-    │        Annex A (93 Security Controls)       │
+    │        Annex A (93 Security Controls)      │
     │────────────────────────────────────────────│
-    │ A.5 Organizational Controls   (37)          │
-    │ A.6 People Controls           (8)           │
-    │ A.7 Physical Controls         (14)          │
-    │ A.8 Technological Controls    (34)          │
+    │ A.5 Organizational Controls   (37)         │
+    │ A.6 People Controls           (8)          │
+    │ A.7 Physical Controls         (14)         │
+    │ A.8 Technological Controls    (34)         │
     └────────────────────────────────────────────┘
                        │
                        ▼
     ┌────────────────────────────────────────────┐
-    │     Outputs Created by the Organization     │
+    │     Outputs Created by the Organization    │
     │────────────────────────────────────────────│
-    │ - ISMS Documentation                        │
-    │ - Statement of Applicability (SoA)          │
-    │ - Risk Assessment + Treatment Plan          │
-    │ - Policies & Procedures                     │
-    │ - Internal Audit Reports                    │
-    │ - Continuous Improvement Records            │
+    │ - ISMS Documentation                       │
+    │ - Statement of Applicability (SoA)         │
+    │ - Risk Assessment + Treatment Plan         │
+    │ - Policies & Procedures                    │
+    │ - Internal Audit Reports                   │
+    │ - Continuous Improvement Records           │
     └────────────────────────────────────────────┘  
 
     ---
