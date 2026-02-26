@@ -1,6 +1,6 @@
 
 # Day 7 Exercise – Sample Solutions (Risk → Control)
-**Author:** Nozhidar
+**Author:** Bozhidar Nikolchev  
 
 Below are three fully worked examples you can adapt.
 
