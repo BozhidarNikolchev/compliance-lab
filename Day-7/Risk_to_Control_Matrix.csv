@@ -1,0 +1,5 @@
+
+Risk,Relevant ISO Controls,Implementation Examples,Evidence Examples
+Unauthorized access,"A.8.23; A.8.28; A.6.3; A.5.17","MFA; strong passwords; encryption; awareness","MFA report; encryption screenshots; training logs"
+Data leakage via endpoints,"A.8.1; A.8.9; A.8.20; A.5.20","MDM baseline; allow‑listing; vuln scanning","MDM report; CIS scan; agent inventory"
+Ransomware,"A.5.7; A.8.15; A.8.13; A.6.3; A.8.2","Backups; SIEM detections; EDR; training","Backup reports; SIEM exports; EDR screenshots"
