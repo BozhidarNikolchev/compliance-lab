@@ -1,0 +1,43 @@
+
+
+<!--
+Title: Template
+Author: Bozhidar Nikolchev  
+Program: 30-Day Compliance – Day 8 (NIST CSF)
+Date: 2026-03-03
+-->
+
+# CSF Profile – Current
+
+scope: "Entire organization / or business unit"
+owner: "CISO / Compliance"
+last_updated: "2026-03-03"
+
+govern:
+  GV.OC: { tier: 2, rating: 2, notes: "Context defined; stakeholders partially mapped" }
+  GV.RM: { tier: 2, rating: 2, notes: "Risk objectives drafted" }
+  GV.RR: { tier: 2, rating: 2, notes: "Roles defined; training pending" }
+  GV.PO: { tier: 2, rating: 2, notes: "Policies exist; review cadence missing" }
+  GV.OV: { tier: 1, rating: 1, notes: "Limited oversight metrics" }
+  GV.SC: { tier: 1, rating: 1, notes: "Ad-hoc supplier reviews" }
+identify:
+  ID.AM: { tier: 2, rating: 2, notes: "Partial CMDB; shadow IT unknown" }
+  ID.RA: { tier: 2, rating: 2, notes: "Qualitative risk only" }
+  ID.IM: { tier: 1, rating: 1, notes: "No continuous improvement loop" }
+protect:
+  PR.AA: { tier: 2, rating: 2, notes: "MFA for admins; user rollout WIP" }
+  PR.AT: { tier: 2, rating: 2, notes: "Annual training; no phishing drills" }
+  PR.DS: { tier: 2, rating: 2, notes: "Data classification draft" }
+  PR.PS: { tier: 1, rating: 1, notes: "Hardening baseline missing" }
+  PR.IR: { tier: 1, rating: 1, notes: "No redundancy tests" }
+detect:
+  DE.CM: { tier: 1, rating: 1, notes: "Basic logs; no SIEM use cases" }
+  DE.AE: { tier: 1, rating: 1, notes: "No triage runbooks" }
+respond:
+  RS.MA: { tier: 1, rating: 1, notes: "IR plan draft" }
+  RS.AN: { tier: 1, rating: 1, notes: "No root-cause practice" }
+  RS.CO: { tier: 1, rating: 1, notes: "No comms matrix" }
+  RS.MI: { tier: 1, rating: 1, notes: "Containment not standardized" }
+recover:
+  RC.RP: { tier: 1, rating: 1, notes: "Backups exist; no restore tests" }
+  RC.CO: { tier: 1, rating: 1, notes: "No recovery comms" }

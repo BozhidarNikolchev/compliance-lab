@@ -1,0 +1,14 @@
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/**.cache
+
+# Python / notebooks (if added later)
+__pycache__/
+.ipynb_checkpoints/
+
+# Node (if used later)
+node_modules/
