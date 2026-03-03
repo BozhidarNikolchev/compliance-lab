@@ -1,0 +1,23 @@
+NIST Function,NIST Category,ISO 27001 Mapping (examples),GDPR Mapping (indicative)
+GV,GV.OC,"Leadership & context (ISO 27001: 5.1, 4.1, 4.2)","GDPR Art.5-6 (principles, lawful basis)"
+GV,GV.RM,"Risk management (ISO 27001: 6.1, 8.3)",GDPR Art.32 (security of processing)
+GV,GV.RR,"Roles & responsibilities (ISO 27001: 5.3, A.5.2)","GDPR Art.24-25 (accountability, by design)"
+GV,GV.PO,Policy (ISO 27001: A.5.1),GDPR Art.24 (policies & measures)
+GV,GV.OV,Oversight & metrics (ISO 27001: 9.1-9.3),GDPR Art.24 (monitoring effectiveness)
+GV,GV.SC,"Supply chain risk (ISO 27001: A.5.19, A.5.20)",GDPR Art.28 (processors)
+ID,ID.AM,"Asset management (ISO 27001: A.5.9, A.5.10)",GDPR Art.30 (records of processing)
+ID,ID.RA,"Risk assessment (ISO 27001: 6.1.2, A.8.16)",GDPR Art.35 (DPIA)
+ID,ID.IM,Improvement (ISO 27001: 10.1-10.2),GDPR Art.24 (continuous improvement)
+PR,PR.AA,"Identity & access (ISO 27001: A.5.15, A.5.16)",GDPR Art.32 (access control)
+PR,PR.AT,Awareness & training (ISO 27001: A.6.3),GDPR Art.39(1)(b) (training by DPO)
+PR,PR.DS,"Data security (ISO 27001: A.8.12, A.8.24)","GDPR Art.25, 32 (privacy by design, security)"
+PR,PR.PS,"Platform security (ISO 27001: A.8.9, A.8.21)",GDPR Art.32 (technical measures)
+PR,PR.IR,"Technology infra resilience (ISO 27001: A.5.29, A.8.13)",GDPR Art.32 (resilience)
+DE,DE.CM,"Continuous monitoring (ISO 27001: A.5.10, A.8.16)",GDPR Art.33 (supporting detection for notification)
+DE,DE.AE,"Adverse event analysis (ISO 27001: A.5.24, A.5.25)",GDPR Art.33-34 (incident/breach analysis)
+RS,RS.MA,Incident management (ISO 27001: A.5.24),GDPR Art.33 (notify SA)
+RS,RS.AN,Incident analysis (ISO 27001: A.5.25),GDPR Art.34 (notify data subjects when required)
+RS,RS.CO,"Response comms (ISO 27001: A.5.8, A.5.24)",GDPR Art.33-34 (communications)
+RS,RS.MI,"Mitigation (ISO 27001: A.5.23, A.8.22)",GDPR Art.32 (mitigation controls)
+RC,RC.RP,"Recovery plan execution (ISO 27001: A.5.29, A.5.30)",GDPR Art.32 (restore availability)
+RC,RC.CO,Recovery communications (ISO 27001: A.5.8),GDPR Art.34 (communication to subjects)
