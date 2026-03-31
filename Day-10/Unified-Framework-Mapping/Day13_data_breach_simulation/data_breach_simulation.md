@@ -181,3 +181,10 @@ Day 13 completed.
 This file serves as the **official breach simulation documentation** for portfolio and training.
 
 ---  
+
+## 📎 Exercise Files for Day 13
+
+- [Scenarios Table- roles/role_assignments.md
+- [Timeline Template](templates/timeline_template.md)
+- [GDPR Article 33 Notification Formincident_report.md
+- [Tabletop Simulation Worksheet](templates/tabletop_simulation_worksheet.md)  
