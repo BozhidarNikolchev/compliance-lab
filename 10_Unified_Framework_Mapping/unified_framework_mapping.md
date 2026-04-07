@@ -1,6 +1,6 @@
 # Day 10 – Unified Framework Mapping
 Author: Bozhidar Nikolchev  
-Program: 30-Day Compliance & Security Governance Program
+Program: Compliance & Security Governance Program
 
 ## 📌 Purpose  
 This document maps core security and compliance controls across major frameworks:  

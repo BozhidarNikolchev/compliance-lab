@@ -1,0 +1,8 @@
+Control Category,ISO 27001,NIST CSF,SOC 2,PCI-DSS,GDPR
+Access Control,A.8,PR.AC,CC6,7,Articles 5 & 25
+Incident Response,A.5.24 / A.16,RS.*,CC7,12.10,Articles 33–34
+Asset Management,A.5.9 / A.7,ID.AM,CC8,2,Article 30
+Risk Management,A.5.3 / Clause 6,ID.RM,CC3,12.2,Article 35
+Logging & Monitoring,A.8.16,DE.CM,CC7.2,10.5,Article 5(1)(f)
+Vendor Management,A.5.19 / A.5.20,ID.SC,CC9,12.8,Articles 28–29
+Data Protection,A.8.11,PR.DS,CC6/CC7,3,Articles 5 & 32
