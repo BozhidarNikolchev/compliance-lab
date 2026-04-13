@@ -71,6 +71,6 @@ HubSpot identified a phishing campaign targeting customers and took immediate re
 | **Overall Risk** | **Medium-Low** |
 
 ## 10. Recommendation
-✅ **Approved** with annual review
-✅ Tier classification: **Tier 2** (Tier 1 if storing customer PII)
-✅ Requires DPA and sub-processor review
+✅ **Approved** with annual review  
+✅ Tier classification: **Tier 2** (Tier 1 if storing customer PII)  
+✅ Requires DPA and sub-processor review  
