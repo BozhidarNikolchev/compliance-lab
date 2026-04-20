@@ -1,6 +1,6 @@
 # Statement of Applicability (SoA) – ISO 27001:2022 (Simplified)
 **Author:** Bozhidar Nikolchev  
-**Day 7 Artifact – GRC / Compliance Analyst Portfolio**
+**Topic 7 Artifact – GRC / Compliance Analyst Portfolio**
 
 ---
 

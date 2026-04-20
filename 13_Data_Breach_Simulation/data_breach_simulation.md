@@ -1,4 +1,4 @@
-# Day 13 – Data Breach Simulation
+# Topic 13 – Data Breach Simulation
 Author: Bozhidar Nikolchev  
 Version: 1.0  
 Last Updated: 2026‑03‑22  

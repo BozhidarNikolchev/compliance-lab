@@ -1,5 +1,5 @@
 
-# Day 8 – NIST CSF Deliverables
+# Topic 8 – NIST CSF Deliverables
 
 ## Files Included
 - **NIST_CSF_Overview.md**

@@ -1,4 +1,4 @@
-# 🧩 Day 2 – Governance, Risk & Compliance (GRC) Overview
+# 🧩 Topic 2 – Governance, Risk & Compliance (GRC) Overview
 
 ## 1. Governance
 

@@ -1,6 +1,6 @@
-# GDPR Compliance Lifecycle — Day 5 Portfolio Project
+# GDPR Compliance Lifecycle — Topic 5 Portfolio Project
 
-This repository contains documentation created as part of my 30‑day Compliance & Security Governance Program (Day 5).
+This repository contains documentation created as part of my Compliance & Security Governance Program (Topic 5).
 
 ## Included Files
 - **GDPR_Compliance_Lifecycle.md** — Full lifecycle documentation.

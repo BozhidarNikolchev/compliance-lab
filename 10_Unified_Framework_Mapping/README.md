@@ -1,4 +1,4 @@
-# Day 10 – Unified Framework Mapping
+# Topic 10 – Unified Framework Mapping
 
 This folder contains mapping material for major security & compliance frameworks:
 - ISO 27001:2022  

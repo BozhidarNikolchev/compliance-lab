@@ -1,6 +1,6 @@
-# Day 14 – Security & Compliance Auditing
+# Topic 14 – Security & Compliance Auditing
 Author: Bozhidar Nikolchev  
-Program: 30-Day Compliance & Security Governance Program
+Program: Compliance & Security Governance Program
 
 ## 🎯 Purpose  
 Understand internal & external audit processes, evidence requirements, how controls are validated, and how audit findings are managed.

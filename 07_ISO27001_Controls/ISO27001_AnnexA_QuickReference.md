@@ -1,4 +1,4 @@
-# ISO 27001:2022 Annex A – Quick Reference (Day 7)
+# ISO 27001:2022 Annex A – Quick Reference (Topic 7)
 **Author:** Bozhidar Nikolchev  
 
 This quick reference groups examples of controls by theme to speed up risk→control selection.

@@ -1,4 +1,4 @@
-# Evidence Checklist – Day 7 (ISO 27001 Controls)
+# Evidence Checklist – Topic 7 (ISO 27001 Controls)
 **Author:** Bozhidar Nikolchev  
 
 Use this list when preparing for audits or internal reviews.

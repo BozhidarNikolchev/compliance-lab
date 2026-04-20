@@ -1,6 +1,6 @@
-# Day 14 – Auditing Module
+# Topic 14 – Auditing Module
 
-This folder contains all materials, templates, and exercises for **Day 14: Security & Compliance Auditing**.
+This folder contains all materials, templates, and exercises for **Topic 14: Security & Compliance Auditing**.
 
 ## 📂 Structure
 - **auditing.md** — main lesson  

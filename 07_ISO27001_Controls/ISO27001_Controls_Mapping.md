@@ -2,7 +2,7 @@
 # ISO 27001:2022 Controls Mapping  
 **Author:** Bozhidar Nikolchev  
 **Track:** GRC / Compliance Analyst  
-**Day 7 Artifact**
+**Topic 7 Artifact**
 
 ---
 

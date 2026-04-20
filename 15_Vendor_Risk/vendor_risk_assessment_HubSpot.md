@@ -1,5 +1,5 @@
 
-# Vendor Risk Assessment — HubSpot (Day 15 VRM)
+# Vendor Risk Assessment — HubSpot (Topic 15 VRM)
 
 ## 1. Executive Summary
 HubSpot is a global CRM and marketing automation platform with strong security maturity. Its security posture includes SOC 2 Type II, SOC 3, GDPR compliance, annual penetration testing, and globally distributed, secure data centers. Overall risk: **Medium-Low**.

@@ -1,4 +1,4 @@
-# Repository Update – Day 7 (ISO 27001 Controls)
+# Repository Update – Topic 7 (ISO 27001 Controls)
 **Author:** Bozhidar Nikolchev  
 
 ## What was added today

@@ -1,10 +1,10 @@
 
-# Day 15 — Vendor Risk Management (VRM)
+# Topic 15 — Vendor Risk Management (VRM)
 
 This folder contains all deliverables created for **Vendor Risk Management** of Compliance & Security Governance Program.
 
 ## 📌 Overview
-Day 15 focuses on **Vendor Risk Management (VRM)** — a critical component of GRC, Compliance, and Privacy programs. The goal is to evaluate third‑party suppliers, assess their security and privacy posture, identify risks, and document the results.
+Topic 15 focuses on **Vendor Risk Management (VRM)** — a critical component of GRC, Compliance, and Privacy programs. The goal is to evaluate third‑party suppliers, assess their security and privacy posture, identify risks, and document the results.
 
 This folder includes:
 - ✅ A complete **Vendor Inventory**

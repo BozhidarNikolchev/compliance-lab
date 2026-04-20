@@ -1,5 +1,5 @@
 
-# Day 4 – Data Subject Rights (DSRs)
+# Topic 4 – Data Subject Rights (DSRs)
 
 
 ## Overview

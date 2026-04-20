@@ -1,4 +1,4 @@
-# Day 1 — Compliance Foundations
+# Topic 1 — Compliance Foundations
 This folder contains my topic 1 materials, including:
 - Theory notes
 - CDD case study

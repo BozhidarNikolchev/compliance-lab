@@ -1,4 +1,4 @@
-# Day 1 — Compliance Theory Notes
+# Topic 1 — Compliance Theory Notes
 
 ## GDPR
 

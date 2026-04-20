@@ -1,4 +1,4 @@
-# Day 10 – Unified Framework Mapping
+# Topic 10 – Unified Framework Mapping
 Author: Bozhidar Nikolchev  
 Program: Compliance & Security Governance Program
 

@@ -2,7 +2,7 @@
 
 **Author:** Bozhidar Nikolchev  
 **Date:** 2026-03-17  
-**Program:** Day 9 – PCI-DSS Mini Compliance Pack
+**Program:** Topic 9 – PCI-DSS Mini Compliance Pack
 
 ---
 

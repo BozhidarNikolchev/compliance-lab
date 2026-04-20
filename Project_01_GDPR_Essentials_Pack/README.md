@@ -1,13 +1,13 @@
 # GDPR Compliance Lifecycle & Essentials Pack
 **Author:** Bozhidar Nikolchev  
-**Program:** 30‑Day Compliance & Security Governance Program – Week 1 Project  
+**Program:** Compliance & Security Governance Program – Week 1 Project  
 **Last Updated:** 2026‑02‑20  
 **Version:** 1.0  
 
 ---
 
 ## 📌 Overview
-This repository contains all deliverables created for **Day 5 + Weekend Project (GDPR Essentials Pack)**.  
+This repository contains all deliverables created for **Topic 5 + Weekend Project (GDPR Essentials Pack)**.  
 The goal is to demonstrate practical knowledge of the **GDPR Compliance Lifecycle**, operational governance, and core documentation used by compliance analysts.
 
 ---
